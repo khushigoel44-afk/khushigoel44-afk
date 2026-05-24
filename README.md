@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! <br>My name is Khushi Goel<br><br>I'm a Computer Science Engineering student specializing in AI/ML, with a heavy focus on DevOps, cloud infrastructure, and competitive programming. I build scalable applications, automate workflows, and optimize backend systems.</h2>
+<h2 align="center">Hey 👋I am Khushi <br>I'm a Computer Science Engineering student specializing in AI/ML, with a heavy focus on DevOps, cloud infrastructure, and competitive programming. I build scalable applications, automate workflows, and optimize backend systems.</h2>
 
 ###
 
