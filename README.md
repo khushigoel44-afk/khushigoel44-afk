@@ -95,3 +95,4 @@
 <img src="https://raw.githubusercontent.com/khushigoel44-afk/khushigoel44-afk/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+
