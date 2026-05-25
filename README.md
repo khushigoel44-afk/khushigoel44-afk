@@ -1,19 +1,42 @@
-<h1 align="center">Hey 👋 I'm Khushi</h1>
+<h1 align="center">Khushi Goel</h1>
 
 ###
 
-<p align="center">I'm a Computer Science Engineering student specializing in AI/ML, with a heavy focus on DevOps, cloud infrastructure, and competitive programming. I build scalable applications, automate workflows, and optimize backend systems.</p>
+<h4 align="center">Devops Engineer | Python | Machine Learning</h4>
 
 ###
 
-<h2 align="left">Skills</h2>
+<p align="left"></p>
 
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/khushi-goel-unique48418832a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=linkedin&label=LinkedIn&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="khushigoel2200@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Connect&logo=gmail&label=Gmail&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">🚀 About Me</h2>
+
+###
+
+<h6 align="left">I'm a Computer Science Engineering student specializing in AI/ML, with a heavy focus on DevOps, cloud infrastructure, and competitive programming. I build scalable applications, automate workflows, and optimize backend systems.<br><br>🛠️ Core Focus: Data Structures & Algorithms (C++), CI/CD, Containerization, and Cloud Deployments.<br><br>🧠 Tech Stack: C++ | Python | Linux Shell Scripting | Docker | AWS | Git & GitHub Actions.<br><br>👥 Community: Tech Lead/Organizer at The Programming Club.</h6>
+
+###
+
+<h2 align="left">🛠 Tech Stack</h2>
+
+###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
@@ -43,7 +66,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
@@ -72,28 +95,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/khushi-goel-unique48418832a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="khushigoel2200@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<h2 align="left">📊 GitHub Analytics</h2>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/khushigoel44-afk/khushigoel44-afk/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/khushigoel44-afk/khushigoel44-afk/languages-output/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=khushigoel44-afk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/khushigoel44-afk/khushigoel44-afk/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=khushigoel44-afk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://raw.githubusercontent.com/khushigoel44-afk/khushigoel44-afk/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h2 align="left">🐍 Contribution Activity</h2>
 
 ###
 
