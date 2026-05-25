@@ -106,8 +106,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=khushigoel44-afk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://raw.githubusercontent.com/khushigoel44-afk/khushigoel44-afk/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=khushigoel44-afk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> 
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushigoel44-afk&theme=dracula" height="300" alt="activity-graph" />
 </div>
 
 ###
