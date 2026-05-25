@@ -25,7 +25,7 @@
 
 ###
 
-<h6 align="left">I'm a Computer Science Engineering student specializing in AI/ML, with a heavy focus on DevOps, cloud infrastructure, and competitive programming. I build scalable applications, automate workflows, and optimize backend systems.<br><br>🛠️ Core Focus: Data Structures & Algorithms (C++), CI/CD, Containerization, and Cloud Deployments.<br><br>🧠 Tech Stack: C++ | Python | Linux Shell Scripting | Docker | AWS | Git & GitHub Actions.<br><br>👥 Community: Tech Lead/Organizer at The Programming Club.</h6>
+<h4 align="left">I'm a Computer Science Engineering student specializing in AI/ML, with a heavy focus on DevOps, cloud infrastructure, and competitive programming. I build scalable applications, automate workflows, and optimize backend systems.<br><br>🛠️ Core Focus: Data Structures & Algorithms (C++), CI/CD, Containerization, and Cloud Deployments.<br><br>🧠 Tech Stack: C++ | Python | Linux Shell Scripting | Docker | AWS | Git & GitHub Actions.<br><br>👥 Community: Tech Lead/Organizer at The Programming Club.</h4>
 
 ###
 
